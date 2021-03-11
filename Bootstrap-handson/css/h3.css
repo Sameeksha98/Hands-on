@@ -1,0 +1,44 @@
+.mat-icon{
+    font-size:30px; 
+    vertical-align: middle;
+    color:gray;
+}
+
+.star-size{
+    font-size: 10px;
+}
+
+.sm-text{
+    text-decoration: line-through;
+}
+
+.size-color{
+    font-size: 12px;
+    
+}
+
+.offer-color{
+    color: red;
+    vertical-align: middle;
+    font-size: 15px;
+}
+
+.shopping-cart{
+    font-size: 15px;
+    vertical-align: middle;
+}
+
+.fav-border{
+    float: right;
+}
+.fav-border:hover{
+    cursor: grab;
+    color: red;
+}
+
+
+    
+    
+    
+     
+    

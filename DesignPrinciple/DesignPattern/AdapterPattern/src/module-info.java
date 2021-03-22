@@ -1,0 +1,4 @@
+module AdapterPattern {
+	requires junit;
+	
+}

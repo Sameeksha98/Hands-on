@@ -1,0 +1,2 @@
+module FinalCheck_AbstractFactoryPattern {
+}
